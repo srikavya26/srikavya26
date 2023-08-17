@@ -18,7 +18,7 @@ I am Srikavya.
   <tr>
    <td align="Center" width="25%"> 
       <a href="#kavya-tech" >
-<img src="https://icons8.com/icon/20909/html-5">HTML5</a> icon by <a target="_blank" href="https://icons8.com">Icons8">
+<img src="https://icons8.com/icon/20909/html-5.png" width="48" height="48" alt="html" />
 </a>
       <br>html
    <td align="Center" width="25%"> 
