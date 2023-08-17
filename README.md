@@ -6,7 +6,16 @@ I am Srikavya.
 ## Tech Stack :computer:
     > Languages
   
- <table>
+ <table> 
+	 <tbody>
+	 <td align="Center" width="25%">   
+        <a href="#kavya-tech" >
+       <img height="64px" width="64px" src="![image](https://github.com/srikavya26/srikavya26/assets/95865936/41b1581d-9551-4414-b8af-6c991f1159da)
+"/>
+      </a>
+      <br>Tailwind CSS
+</td>
+	 </tbody>
 	 <tbody>
   <tr>
    <td align="Center" width="25%"> 
@@ -36,7 +45,7 @@ I am Srikavya.
    <table>
    <tbody>
 	  <tr>
-	
+	icons8-html5-48.png
 <td align="Center" width="25%">   
         <a href="kavya-tech" >
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
