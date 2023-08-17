@@ -2,11 +2,6 @@
 I am Srikavya.
 <h2>Connect with me at </h2>
 	
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-	
-[![Linkedin](https://img.shields.io/badge/-Dhrumi%20Shah-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dhrumishah15/)](https://www.linkedin.com/in/dhrumishah15/)
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-<br>
 
 ## Tech Stack :computer:
     > Languages
