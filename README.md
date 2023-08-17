@@ -7,8 +7,6 @@ I am Srikavya.
     > Languages
   <h2>Connect with me at </h2>
 	
-[![Linkedin](https://img.shields.io/badge/-Dhrumi%20Shah-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dhrumishah15/)](https://www.linkedin.com/in/dhrumishah15/)
-	
 <br>
 
 ## Tech Stack :computer:
