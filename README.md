@@ -6,10 +6,6 @@ I am Srikavya.
 ## Tech Stack :computer:
     Languages
     
-  
-## Tech Stack :computer:
-  
-> Languages
  
  <table>
 	 <tbody>
