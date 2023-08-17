@@ -56,13 +56,6 @@ I am Srikavya.
       </a>
       <br>Tailwind CSS
 </td>
-
-<td align="Center" width="25%">   
-        <a href="#kavya-tech" >
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/threejs.svg">
-      </a>
-      <br>Three.js
-</td>
 		  <td align="Center" width="25%">   
         <a href="#kavya-tech" >
         <img  height="64px" width="64px" src="https://img.icons8.com/color/96/null/typescript.png"/>
