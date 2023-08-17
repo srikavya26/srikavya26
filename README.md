@@ -6,7 +6,7 @@ I am Srikavya.
 ## Tech Stack :computer:
     > Languages
   <h2>Connect with me at </h2>
-	
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <br>
 
 ## Tech Stack :computer:
