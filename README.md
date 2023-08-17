@@ -14,17 +14,17 @@ I am Srikavya.
       <a href="#kavya-tech" >
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
       </a>
-      <br>html
+      <br>Html
 	   <td align="Center" width="25%"> 
       <a href="#kavya-tech" >
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
       </a>
-      <br>css
+      <br>Css
 	<td align="Center" width="25%"> 
       <a href="#kavya-tech" >
 	      <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
       </a>
-      <br>bs   
+      <br>Bootstrap   
    <td align="Center" width="25%"> 
       <a href="#kavya-tech" >
         <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
