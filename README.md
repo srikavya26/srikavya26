@@ -21,6 +21,12 @@ I am Srikavya.
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
       </a>
       <br>html
+	   <td align="Center" width="25%"> 
+      <a href="#kavya-tech" >
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+      </a>
+      <br>css
+		   
    <td align="Center" width="25%"> 
       <a href="#kavya-tech" >
         <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
@@ -54,20 +60,6 @@ I am Srikavya.
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </a>
       <br>ReactJS
-</td>
-<td align="Center" width="25%">   
-        <a href="#kavya-tech" >
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-      </a>
-      <br>Redux
-</td>
-
-
-<td align="Center" width="25%">   
-        <a href="#kavya-tech" >
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/threejs.svg">
-      </a>
-      <br>Three.js
 </td>
 		  <td align="Center" width="25%">   
         <a href="#kavya-tech" >
