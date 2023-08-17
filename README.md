@@ -12,14 +12,14 @@ I am Srikavya.
 ## Tech Stack :computer:
   
 > Languages
-  
+ 
  <table>
 	 <tbody>
   <tr>
    <td align="Center" width="25%"> 
       <a href="#kavya-tech" >
-<img src="https://icons8.com/icon/20909/html-5.png" width="48" height="48" alt="html" />
-</a>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+      </a>
       <br>html
    <td align="Center" width="25%"> 
       <a href="#kavya-tech" >
