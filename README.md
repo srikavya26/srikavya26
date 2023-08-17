@@ -12,6 +12,9 @@ I am Srikavya.
         <a href="#kavya-tech" >
        <img height="64px" width="64px" src="![image](https://github.com/srikavya26/srikavya26/assets/95865936/41b1581d-9551-4414-b8af-6c991f1159da)
 "/>
+	</a>
+	 </td>
+	 </tbody>
       </a>
       <br>Tailwind CSS
 </td>
