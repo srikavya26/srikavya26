@@ -43,12 +43,6 @@ I am Srikavya.
       </a>
       <br>Python
     </td>
-	    <td align="Center" width="25%"> 
-      <a href="#kavya-tech" >
-      <img width="96" height="96" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
-      </a>
-      <br>C
-</td>
    </tr>
 </tbody>
   </table>
