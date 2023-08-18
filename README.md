@@ -103,5 +103,7 @@ I am Srikavya.
 
 - 👩‍💼**Experience(Fresher/Intern)**
 - **Online Certifications**
+- IBM Data Science
+- Meta Fullstack
 - <img align="right" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">
 </details>
