@@ -68,7 +68,7 @@ I am Srikavya.
 </td>
 <td align="Center" width="25%">   
         <a href="#kavya-tech" >
-        <img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+       <img width="96" height="96" src="https://img.icons8.com/color/96/nodejs.png" alt="nodejs"/>
       </a>
 <br>
       <br>NodeJS
