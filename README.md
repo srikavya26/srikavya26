@@ -70,7 +70,6 @@ I am Srikavya.
         <a href="#kavya-tech" >
        <img width="96" height="96" src="https://img.icons8.com/color/96/nodejs.png" alt="nodejs"/>
       </a>
-<br>
       <br>NodeJS
 </td>
 
