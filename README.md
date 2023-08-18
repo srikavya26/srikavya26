@@ -61,11 +61,6 @@ I am Srikavya.
 	<br>
       <br>ReactJS
 </td>
-		  <td align="Center" width="25%">   
-        <a href="#kavya-tech" >
-        <img  height="64px" width="64px" src="https://img.icons8.com/color/96/null/typescript.png"/>
-      </a>
-      <br>TypeScript
 </td>
 <td align="Center" width="25%">   
         <a href="#kavya-tech" >
