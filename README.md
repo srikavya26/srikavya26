@@ -26,12 +26,12 @@ I am Srikavya.
 	      <img width="45" height="45" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
       </a>
       <br>Bootstrap   
-   <td align="Center" width="25%"> 
-      <a href="#kavya-tech" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
-      </a>
-      <br>C
     </td>
+	  <td align="Center" width="25%">   
+        <a href="#kavya-tech" >
+        <img height="60px" width="60px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </a>
+      <br>JavaScript
 	  <td align="Center" width="25%">
       <a href="#kavya-tech">
         <img width="50" height="50" src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
@@ -43,11 +43,11 @@ I am Srikavya.
       </a>
       <br>Python
     </td>
-    <td align="Center" width="25%">   
-        <a href="#kavya-tech" >
-        <img height="60px" width="60px" src="https://cdn.svgporn.com/logos/javascript.svg">
+	    <td align="Center" width="25%"> 
+      <a href="#kavya-tech" >
+      <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
       </a>
-      <br>JavaScript
+      <br>C
 </td>
    </tr>
 </tbody>
