@@ -2,6 +2,7 @@
 I am Srikavya.
 <h2>Connect </h2>
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ 
 
 ## Tech Stack :computer:
     
@@ -90,6 +91,13 @@ I am Srikavya.
 </tr>
 </tbody>
   </table>
-	
 <br>
 
+<details>
+  <summary>📃 Resume</summary>
+## Education
+
+- 📖 **Web Development**\
+📆 2013 - 2016\
+📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+</details>
