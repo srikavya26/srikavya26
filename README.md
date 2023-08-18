@@ -1,7 +1,7 @@
 ### Hi there 👩‍💻🙋‍♀️
 I am Srikavya.
 <h2>Connect </h2>
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	<img <center>src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  <p align='center'>
   📫Reach me at: <a href='mailto:vskavya02@gmail.com'>vskavya02@gmail.com</a>
 </p>
