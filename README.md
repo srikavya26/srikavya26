@@ -32,6 +32,11 @@ I am Srikavya.
       </a>
       <br>C
     </td>
+	  <td align="Center" width="25%">
+      <a href="#kavya-tech">
+        <img width="96" height="96" src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+      </a>
+      <br>Java
     <td align="Center" width="25%">
       <a href="#kavya-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
