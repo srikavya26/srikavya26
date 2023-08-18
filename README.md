@@ -23,7 +23,7 @@ I am Srikavya.
       <br>Css
 	<td align="Center" width="25%"> 
       <a href="#kavya-tech" >
-	      <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
+	      <img width="45" height="45" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
       </a>
       <br>Bootstrap   
    <td align="Center" width="25%"> 
@@ -34,7 +34,7 @@ I am Srikavya.
     </td>
 	  <td align="Center" width="25%">
       <a href="#kavya-tech">
-        <img width="48" height="48" src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+        <img width="50" height="50" src="https://img.icons8.com/color/96/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
       </a>
       <br>Java
     <td align="Center" width="25%">
