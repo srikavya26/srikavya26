@@ -58,6 +58,7 @@ I am Srikavya.
         <a href="#kavya-tech" >
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </a>
+	<br>
       <br>ReactJS
 </td>
 		  <td align="Center" width="25%">   
