@@ -40,7 +40,7 @@ I am Srikavya.
     </td>
     <td align="Center" width="25%">   
         <a href="#kavya-tech" >
-        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="60px" width="60px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </a>
       <br>JavaScript
 </td>
