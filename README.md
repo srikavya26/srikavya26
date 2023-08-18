@@ -95,9 +95,10 @@ I am Srikavya.
 
 <details>
   <summary>📃 Resume</summary>
-## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+### Education
+
+- 📖 **B.Tech(Computer Science)**\
+📆 2019-2023
+📍 **Jyothishmathi Institute of Technology and Science** - Karimnagar,Telangana,India.
 </details>
