@@ -39,7 +39,7 @@ I am Srikavya.
       <br>Java
     <td align="Center" width="25%">
       <a href="#kavya-tech">
-        <img width="96" height="96" src="https://img.icons8.com/color/96/python--v1.png" alt="python--v1"/>
+        <img width="50" height="50" src="https://img.icons8.com/color/96/python--v1.png" alt="python--v1"/>
       </a>
       <br>Python
     </td>
