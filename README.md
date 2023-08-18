@@ -110,7 +110,7 @@ I am Srikavya.
 📆 April 2023\
 📖 **Meta Fullstack**\
 📖 **IBM Datascience**\
-  <img align="right" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
+    <img align="right" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
   📆 July 2022\
   📖 **Python**
 	
