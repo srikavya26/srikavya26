@@ -100,6 +100,6 @@ I am Srikavya.
 - 📖 **B.Tech(Computer Science)**\
 📆 2019-2023
 📍 **Jyothishmathi Institute of Technology and Science** - Karimnagar,Telangana,India.
-</details>
 
-- 👩‍💼**Experience(Fresher)**\
+- 👩‍💼**Experience(Fresher)**
+</details>
