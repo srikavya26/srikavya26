@@ -1,7 +1,10 @@
 ### Hi there 👩‍💻🙋‍♀️
 I am Srikavya.
 <h2> Connect </h2>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/vasala-srikavya-9368b5273"/>
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.instagram.com/sriikavyaa.vasala"/>
+	<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>        
  <p>
   📫Reach me at: <a href='mailto:vskavya02@gmail.com'>vskavya02@gmail.com</a>
 </p>
@@ -100,7 +103,7 @@ I am Srikavya.
 ### Education
 
 - 📖 **B.Tech(Computer Science)**\
-📆 2019-2023
+📆 2019-2023\
 📍 **Jyothishmathi Institute of Technology and Science** - Karimnagar,Telangana,India.
 
 - 👩‍💼**Experience(Fresher/Intern)**
