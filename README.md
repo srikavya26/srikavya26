@@ -39,7 +39,7 @@ I am Srikavya.
       <br>Java
     <td align="Center" width="25%">
       <a href="#kavya-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+        <img width="96" height="96" src="https://img.icons8.com/color/96/python--v1.png" alt="python--v1"/>
       </a>
       <br>Python
     </td>
