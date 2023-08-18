@@ -6,7 +6,7 @@ I am Srikavya.
   📫Reach me at: <a href='mailto:vskavya02@gmail.com'>vskavya02@gmail.com</a>
 </p>
 
-## Coding : computer:
+## Coding :computer:
     > Languages
  <table>
 	 <tbody>
