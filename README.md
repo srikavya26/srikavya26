@@ -4,7 +4,8 @@ I am Srikavya.
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 ## Tech Stack :computer:
-    Languages
+    
+    > Languages
     
  
  <table>
@@ -64,6 +65,12 @@ I am Srikavya.
         <img  height="64px" width="64px" src="https://img.icons8.com/color/96/null/typescript.png"/>
       </a>
       <br>TypeScript
+</td>
+<td align="Center" width="25%">   
+        <a href="#kavya-tech" >
+        <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+      </a>
+      <br>NodeJS
 </td>
 
 
