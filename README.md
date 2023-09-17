@@ -98,7 +98,7 @@ I am Srikavya.
 <br>
 
 <details>
-	### 📃 Resume
+	<summary>📃 Resume</summary> 
 
 ### Education
 
