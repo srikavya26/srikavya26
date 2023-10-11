@@ -1,5 +1,6 @@
-### Hi there 👩‍💻🙋‍♀️
-I am Srikavya.
+## Hi there 👩‍💻🙋‍♀️
+### I am Srikavya.
+### Bachelor's in Computer Science 🎓 | Front-end Dev 💻 | JavaScript 🤖 | I'm the vibrant fusion of art, code, and boundless curiosity, with a nose perpetually buried in books 📚|
 <h2> Connect </h2>
 <a href="https://www.linkedin.com/in/vasala-srikavya-9368b5273"/>
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
