@@ -1,4 +1,5 @@
 <h1 align="center">Hi 🙋‍♀️ I'm kavya</h1>
+<h2 align="center">Portfolio : https://srikavyavasala.netlify.app/</h2>
 <h3 align="center">A passionate frontend developer</h3>
 Bachelor's in Computer Science 🎓 | Front-end Dev 💻 | JavaScript 🤖 | I'm the vibrant fusion of art, code, and boundless curiosity, with a nose perpetually buried in books 📚|
 <h1 align="center"> Connect </h2>
