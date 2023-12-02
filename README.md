@@ -1,6 +1,6 @@
 <!-- Header  -->
 <h1 align="center">Hi! 🙋‍♀️ I am Kavya.</h1>
-<h2 align="center"> My Portfolio👩‍💻: https://srikavyavasala.netlify.app/</h2>
+<h2 align="center"> My Portfolio - https://srikavyavasala.netlify.app/</h2>
 <p align="center">Bachelor's in Computer Science 🎓 | Front-end Developer 💻 | JavaScript Enthusiast 🤖</p>
 
 <!-- Connect  -->
@@ -20,7 +20,7 @@
 </p>
 
 <!-- About Me  -->
-<h3 align="center">About Me 📚</h3>
+<h3 align="center">About Me 👩‍💻</h3>
 <p align="center">I'm the vibrant fusion of art, code, and boundless curiosity. With a Bachelor's degree in Computer Science, I bring creativity and passion to front-end development. My journey involves exploring the endless possibilities of JavaScript and crafting beautiful user experiences.</p>
 
 <!-- Tech  -->
