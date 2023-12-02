@@ -1,6 +1,6 @@
 <!-- Header  -->
-<h1 align="center">Hi there! 🙋‍♀️</h1>
-<h2 align="center">Welcome to My Portfolio 👩‍💻</h2>
+<h1 align="center">Hi! 🙋‍♀️ I am Kavya.</h1>
+<h2 align="center"> My Portfolio👩‍💻: https://srikavyavasala.netlify.app/</h2>
 <p align="center">Bachelor's in Computer Science 🎓 | Front-end Developer 💻 | JavaScript Enthusiast 🤖</p>
 
 <!-- Connect  -->
@@ -28,37 +28,32 @@
 <h3 align="center">Languages</h3>
   
   <p align="center">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="20"/> HTML5</p>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="30"/> HTML5</p>
     <p align="center">
-	    <img src="https://img.icons8.com/fluency/48/000000/css3.png" alt="CSS3" width="20"/> CSS3</p>
-    <p align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="20"/> JavaScript (ES6+)</p>
-    <p align="center"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="20"/> Java</p>
-    <p align="center"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="20"/> Python</p>
+	    <img src="https://img.icons8.com/fluency/48/000000/css3.png" alt="CSS3" width="30"/> CSS3</p>
+    <p align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="30"/> JavaScript (ES6+)</p>
+    <p align="center"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="30"/> Java</p>
+    <p align="center"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="30"/> Python</p>
 </p>
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
-	<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="20px" /> Bootstrap </p>
+	<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30px" /> Bootstrap </p>
 <p align="center">
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" width="20px" />ReactJS
+  <img src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" width="30px" /> ReactJS
 </p>
 
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/nodejs.png" alt="NodeJS" width="20px" />NodeJS
+  <img src="https://img.icons8.com/color/96/nodejs.png" alt="NodeJS" width="30px" /> NodeJS
 </p>
 
 
 
 <h3 align="center">Version control</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="GIT" width="20px" />GIT
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="GIT" width="30px" /> GIT
 </p>
-
-
-
-
-
 
 
 
