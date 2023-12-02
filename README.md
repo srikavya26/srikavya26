@@ -24,7 +24,7 @@
 <p align="center">I'm the vibrant fusion of art, code, and boundless curiosity. With a Bachelor's degree in Computer Science, I bring creativity and passion to front-end development. My journey involves exploring the endless possibilities of JavaScript and crafting beautiful user experiences.</p>
 
 <!-- Tech  -->
-<h2 align="center">Tech Stack 💻</h2>
+<h3 align="center">Tech Stack 💻 </h3>
 
   <p align="center">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="30"/> HTML5</p>
@@ -35,7 +35,7 @@
     <p align="center"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="30"/> Python</p>
 </p>
 
-<h3 align="center">Frameworks</h3>
+<h3 align="center">Frameworks </h3>
 <p align="center">
 	<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30px" /> Bootstrap </p>
 <p align="center">
