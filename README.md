@@ -55,7 +55,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="GIT" width="30px" /> GIT
 </p>
 
-
+<!-- Footer Section -->
+<h1 align="center">Let's build something amazing together! 💫</h1>
 
 <h2 align="center">
 	📃 Resume 
