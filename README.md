@@ -1,8 +1,8 @@
-<h1 align="center">Hi 🙋‍♀️ I'm kavya</h1>
-<h2 align="center">Portfolio : https://srikavyavasala.netlify.app/</h2>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 🙋‍♀️ I'm kavya.</h1>
+<h2 align="center">My Portfolio : https://srikavyavasala.netlify.app/</h2>
+<h2 align="center">Frontend developer</h2>
 Bachelor's in Computer Science 🎓 | Front-end Dev 💻 | JavaScript 🤖 | I'm the vibrant fusion of art, code, and boundless curiosity, with a nose perpetually buried in books 📚|
-<h1 align="center"> Connect </h2>
+<h3 align="center"> Connect </h3>
 <a href="mailto:vskavya02@gmail.com"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <br>
 <a href="https://www.linkedin.com/in/vasala-srikavya-9368b5273"/>
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <br>
@@ -10,7 +10,7 @@ Bachelor's in Computer Science 🎓 | Front-end Dev 💻 | JavaScript 🤖 | I'm
 	<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>        
 
 
-<h1 align="center">Tech💻 </h1>
+<h3 align="center">Tech💻 </h3>
 
 ### Languages
 
