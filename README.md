@@ -25,8 +25,7 @@
 
 <!-- Tech  -->
 <h2 align="center">Tech Stack 💻</h2>
-<h3 align="center">Languages</h3>
-  
+
   <p align="center">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="30"/> HTML5</p>
     <p align="center">
