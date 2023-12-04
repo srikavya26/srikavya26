@@ -55,7 +55,7 @@
 </p>
 
 <!-- Footer Section -->
-<h1 align="center">Let's build something amazing together! 💫</h1>
+<h2 align="center">Let's build something amazing together! 💫</h2>
 
 <h2 align="center">
 	📃 Resume 
