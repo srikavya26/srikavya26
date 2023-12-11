@@ -21,7 +21,7 @@
 
 <!-- About Me  -->
 <h3 align="center">About Me 👩‍💻</h3>
-<p align="center">I'm the vibrant fusion of art, code, and boundless curiosity. With a Bachelor's degree in Computer Science, I bring creativity and passion to front-end development. My journey involves exploring the endless possibilities of JavaScript and crafting beautiful user experiences.</p>
+<p align="center">I bring creativity and passion to front-end development. My journey involves exploring the endless possibilities of JavaScript and crafting beautiful user experiences.</p>
 
 <!-- Tech  -->
 <h3 align="center">Tech Stack 💻 </h3>
