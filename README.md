@@ -1,7 +1,7 @@
 <!-- Header  -->
 <h1 align="center">Hi! 🙋‍♀️ I am Kavya.</h1>
 <h2 align="center"> My Portfolio - https://srikavyavasala.netlify.app/</h2>
-<p align="center">Bachelor's in Computer Science 🎓 | Front-end Developer 💻 | JavaScript Enthusiast 🤖</p>
+<p align="center"> | Front-end Developer 💻 | </p>
 
 <!-- Connect  -->
 <h3 align="center">Connect with Me 🌐</h3>
