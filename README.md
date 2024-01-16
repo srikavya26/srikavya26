@@ -35,7 +35,7 @@
     <p align="center"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="30"/> Python</p>
 </p>
 
-<h3 align="center">Frameworks / Libraries </h3>
+<h3 align="center">Frameworks | Libraries </h3>
 <p align="center">
 	<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30px" /> Bootstrap </p>
 <p align="center">
