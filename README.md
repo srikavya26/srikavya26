@@ -1,7 +1,7 @@
 
 <!-- Header  -->
 <h1 align="center">Hi! 🙋‍♀️ I am Kavya.</h1>
-<h2 align="center"> My Portfolio - https://srikavyavasala.netlify.app/</h2>
+<h2 align="center">𝓜𝔂 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸 - https://srikavyavasala.netlify.app/</h2>
 <p align="center"> | Front-end Developer 💻 | </p>
 
 <!-- Connect  -->
@@ -22,39 +22,34 @@
 
 <!-- About Me  -->
 <h3 align="center">About Me 👩‍💻</h3>
-<p align="center">I bring creativity and passion to front-end development. My journey involves exploring the endless possibilities of JavaScript and crafting beautiful user experiences.</p>
-
+<p align="center"><p>
+In the realm of code, where pixels dance and creativity meets logic, I am the architect of delightful digital experiences. Let's embark on a journey through the enchanting world of web development!</p>
 <!-- Tech  -->
-<h3 align="center">Tech Stack 💻 </h3>
-
-  <p align="center">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="30"/> HTML5</p>
-    <p align="center">
-	    <img src="https://img.icons8.com/fluency/48/000000/css3.png" alt="CSS3" width="30"/> CSS3</p>
-    <p align="center"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="30"/> JavaScript (ES6+)</p>
-    <p align="center"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="30"/> Java</p>
-    <p align="center"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="30"/> Python</p>
-</p>
-
-<h3 align="center">Frameworks | Libraries </h3>
-<p align="center">
-	<img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30px" /> Bootstrap </p>
-<p align="center">
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" width="30px" /> ReactJS
-</p>
-
+<h3 align="center">🚀 Tech Stack 💻 </h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/nodejs.png" alt="NodeJS" width="30px" /> NodeJS
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="30"/> HTML5
+    <img src="https://img.icons8.com/fluency/48/000000/css3.png" alt="CSS3" width="30"/> CSS3
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="30"/> JavaScript (ES6+)
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="30"/> Java
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="30"/> Python
+     <img width="30" height="30" src="https://img.icons8.com/ios/50/artificial-intelligence.png" alt="artificial-intelligence"/> 🧠Algorithms AI|ML
 </p>
 
+<h3 align="center">🛠️ Frameworks | Libraries </h3>
 
-
-<h3 align="center">Version control</h3>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="GIT" width="30px" /> GIT
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30px" /> Bootstrap
+    <img src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" width="30px" /> ReactJS
+    <img src="https://img.icons8.com/color/96/nodejs.png" alt="NodeJS" width="30px" /> NodeJS
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="20"/> Jupyter Notebooks
 </p>
 
+<h3 align="center">📚 Version control</h3>
+
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="GIT" width="30px" /> GIT
+</p>
 
 
 <h2 align="center">
