@@ -59,17 +59,5 @@ In the realm of code, where pixels dance and creativity meets logic, I am the ar
 ### Education
 
 - 📖 **B.Tech(Computer Science)**\
-📆 2019-2023\
-📍 **Jyothishmathi Institute of Technology and Science** - Karimnagar,Telangana,India.
 
 ### 👩‍💼Experience(Fresher/Intern)
-
-### Online Certifications
-<img align="right" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white">📆 April 2023
-📖**Meta Fullstack**
-📖**IBM Datascience**
-<br>
-<br>
-<img align="right" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">📆 July 2022
-📖 **Python**
-	
