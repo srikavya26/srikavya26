@@ -52,12 +52,3 @@ In the realm of code, where pixels dance and creativity meets logic, I am the ar
 </p>
 
 
-<h2 align="center">
-	📃 Resume : 
-</h2>
-
-### Education
-
-- 📖 **B.Tech(Computer Science)**\
-
-### 👩‍💼Experience(Fresher/Intern)
