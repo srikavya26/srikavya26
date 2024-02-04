@@ -5,7 +5,7 @@
 <p align="center"> | Front-End Developer 💻 | </p>
 
 <!-- Connect  -->
-<h3 align="center">Connect with Me 🌐</h3>
+<h3 align="center">Connect with Me 🌐 : </h3>
 <p align="center">
    <a href="mailto:vskavya02gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -21,11 +21,11 @@
 </p>
 
 <!-- About Me  -->
-<h3 align="center">About Me 👩‍💻</h3>
+<h3 align="center">About Me 👩‍💻 : </h3>
 <p align="center"><p>
 In the realm of code, where pixels dance and creativity meets logic, I am the architect of delightful digital experiences. Let's embark on a journey through the enchanting world of web development!</p>
 <!-- Tech  -->
-<h3 align="center">🚀 Tech Stack 💻 </h3>
+<h3 align="center">🚀 Tech Stack 💻 : </h3>
 
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="30"/> HTML5
