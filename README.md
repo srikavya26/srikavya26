@@ -7,7 +7,7 @@
 <h3 align="center">About Me 👩‍💻 : </h3>
 <p align="center">I'm a fresher front-end developer - bursting with creativity and eager to explore the exciting world of coding.
 <h5 align="center">I'm currently on the hunt 🔍 for my first front-end developer role 🎯.</h5>
-<p align="center">I'm excited to learn, grow, and collaborate with you awesome folks in the developer community!</p>
+<p align="center">I'm excited to learn, grow, and collaborate !</p>
 <!-- Tech  -->
 <h3 align="center">🚀 Tech Stack 💻 : </h3>
 
