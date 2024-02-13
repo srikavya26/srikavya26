@@ -2,28 +2,12 @@
 <!-- Header  -->
 <h2 align="center">Hi there! 👋 I'm Kavya.</h2>
 
-<p align="center"> | Front-End Developer 💻 | </p>
-
-<!-- Connect  -->
-<h3 align="center">Connect with Me 🌐 : </h3>
-<p align="center">
-   <a href="mailto:vskavya02gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-   </a>
-   &nbsp;
-   <a href="https://www.linkedin.com/in/vasala-srikavya-9368b5273/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-   </a>
-   &nbsp;
-   <a href="https://www.instagram.com/">
-      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-   </a>
-</p>
 
 <!-- About Me  -->
 <h3 align="center">About Me 👩‍💻 : </h3>
-<p align="center"><p>
-In the realm of code, where pixels dance and creativity meets logic, I am the architect of delightful digital experiences. Let's embark on a journey through the enchanting world of web development!</p>
+<p align="center">I'm a fresher front-end developer - bursting with creativity and eager to explore the exciting world of coding.
+<h5 align="center">I'm currently on the hunt 🔍 for my first front-end developer role 🎯.</h5>
+<p align="center">I'm excited to learn, grow, and collaborate with you awesome folks in the developer community!</p>
 <!-- Tech  -->
 <h3 align="center">🚀 Tech Stack 💻 : </h3>
 
@@ -51,4 +35,19 @@ In the realm of code, where pixels dance and creativity meets logic, I am the ar
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="GIT" width="30px" /> GIT
 </p>
 
+<!-- Connect  -->
+<h3 align="center">Connect with Me 🌐 : </h3>
+<p align="center">
+   <a href="mailto:vskavya02gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+   </a>
+   &nbsp;
+   <a href="https://www.linkedin.com/in/vasala-srikavya-9368b5273/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+   </a>
+   &nbsp;
+   <a href="https://www.instagram.com/">
+      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+   </a>
+</p>
 
