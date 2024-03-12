@@ -2,7 +2,6 @@
 <!-- Header  -->
 <h2 align="center">Hi there! 👋 I'm Kavya.</h2>
 
-
 <!-- About Me  -->
 <h3 align="center">About Me 👩‍💻 : </h3>
 <p align="center">I'm a fresher front-end developer - bursting with creativity and eager to explore the exciting world of coding.
