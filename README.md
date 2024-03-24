@@ -1,13 +1,13 @@
 
-<!-- Header  -->
+<!-- Header  --
 <h2 align="center">Hi there! 👋 I'm Kavya.</h2>
 
-<!-- About Me  -->
+<!-- About Me  --
 <h3 align="center">About Me 👩‍💻 : </h3>
 <p align="center">I'm a fresher Web Developer.
 <h5 align="center">I'm currently on the hunt 🔍 for my first front-end developer role 🎯.</h5>
 
-<!-- Tech  -->
+<!-- Tech  --
 <h3 align="center">🚀 Tech Stack 💻 : </h3>
 
 <p align="center">
@@ -34,7 +34,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="GIT" width="30px" /> GIT
 </p>
 
-<!-- Connect  -->
+<!-- Connect  --
 <h3 align="center">Connect with Me 🌐 : </h3>
 <p align="center">
    <a href="mailto:vskavya02gmail.com">
