@@ -1,6 +1,10 @@
 ## About Me
 Hey there!👋 I am Kavya.
 
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasala-srikavya-9368b5273/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vskavya02@example.com)
+
 ## Skills
 - **Web Development:** Familiar with modern web development frameworks and libraries.
 
@@ -30,8 +34,4 @@ Hey there!👋 I am Kavya.
 ## Collaboration
 I'm always open to collaboration and eager to work on exciting projects with like-minded individuals. Whether it's building a web app, tackling a machine learning challenge, or exploring new technologies, feel free to reach out—I'd love to connect and contribute!
 
-## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasala-srikavya-9368b5273/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:vskavya02@gmail.com)
 
