@@ -1,12 +1,16 @@
 ## About Me
-Hey there!👋 I'm a Computer Science graduate 👩‍💻 with a deep passion for technology, particularly in the realms of Web Development and Artificial Intelligence/Machine Learning. 
+Hey there!👋 I am Kavya.
 
 ## Skills
 - **Web Development:** Familiar with modern web development frameworks and libraries.
-
+<img src="fa fa-javascript">
+<i class="fab fa-html5"></i>
+<i class="fa fa-react"></i>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJicTJ4M25udDFiMDNvdWxiejZkcGdkZzNiZTI1NDJkcDdheG91dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bz9PIxJMQtkO943XeS/giphy.gif" width="300" height="200">
 
 - **AI/ML:** Skilled in Python programming and Data Science techniques, including data preprocessing, modeling, and evaluation. Experienced in applying machine learning algorithms to solve diverse problems.
+- <img src=![image](https://github.com/srikavya26/srikavya26/assets/95865936/0065b980-82ed-4bf3-930e-1dd11aff531c) height="300" width="300" >
+
 <img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBybTdhbG50emF1bjRvOHoyZ3RibWVucGU0dWRja3Z6Y2s4YnU2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif" widht="300" height="200">
 
 ## Projects
