@@ -1,52 +1,22 @@
+## About Me
+Hey there!👋 I'm a Computer Science graduate 👩‍💻 with a deep passion for technology, particularly in the realms of Web Development and Artificial Intelligence/Machine Learning. 
 
-<!-- Header  --
-<h2 align="center">Hi there! 👋 I'm Kavya.</h2>
+## Skills
+- **Web Development:** Familiar with modern web development frameworks and libraries.
 
-<!-- About Me  --
-<h3 align="center">About Me 👩‍💻 : </h3>
-<p align="center">I'm a fresher Web Developer.
-<h5 align="center">I'm currently on the hunt 🔍 for my first front-end developer role 🎯.</h5>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJicTJ4M25udDFiMDNvdWxiejZkcGdkZzNiZTI1NDJkcDdheG91dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bz9PIxJMQtkO943XeS/giphy.gif" width="300" height="200">
 
-<!-- Tech  --
-<h3 align="center">🚀 Tech Stack 💻 : </h3>
+- **AI/ML:** Skilled in Python programming and Data Science techniques, including data preprocessing, modeling, and evaluation. Experienced in applying machine learning algorithms to solve diverse problems.
+<img src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBybTdhbG50emF1bjRvOHoyZ3RibWVucGU0dWRja3Z6Y2s4YnU2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif" widht="300" height="200">
 
-<p align="center">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="30"/> HTML5
-    <img src="https://img.icons8.com/fluency/48/000000/css3.png" alt="CSS3" width="30"/> CSS3
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="30"/> JavaScript (ES6+)
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="30"/> Java
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="30"/> Python
-     <img width="30" height="30" src="https://img.icons8.com/ios/50/artificial-intelligence.png" alt="artificial-intelligence"/> 🧠Algorithms AI|ML
-</p>
+## Projects
+- **Web Development Projects:** I've developed a range of web applications and websites using JavaScript and React. From simple landing pages to dynamic web apps, I enjoy bringing ideas to life on the web.
+- **AI/ML Projects:** I've worked on various AI/ML projects, including predictive modeling, natural language processing, and computer vision. Leveraging Python and popular libraries like TensorFlow and Scikit-learn, I strive to create intelligent solutions.
 
-<h3 align="center">🛠️ Frameworks | Libraries </h3>
 
-<p align="center">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30px" /> Bootstrap
-    <img src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS" width="30px" /> ReactJS
-    <img src="https://img.icons8.com/color/96/nodejs.png" alt="NodeJS" width="30px" /> NodeJS
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter" width="20"/> Jupyter Notebooks
-</p>
+## Collaboration
+I'm always open to collaboration and eager to work on exciting projects with like-minded individuals. Whether it's building a web app, tackling a machine learning challenge, or exploring new technologies, feel free to reach out—I'd love to connect and contribute!
 
-<h3 align="center">📚 Version control</h3>
-
-<p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="GIT" width="30px" /> GIT
-</p>
-
-<!-- Connect  --
-<h3 align="center">Connect with Me 🌐 : </h3>
-<p align="center">
-   <a href="mailto:vskavya02gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-   </a>
-   &nbsp;
-   <a href="https://www.linkedin.com/in/vasala-srikavya-9368b5273/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-   </a>
-   &nbsp;
-   <a href="https://www.instagram.com/">
-      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-   </a>
-</p>
-
+## Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/vasala-srikavya-9368b5273/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:vskavya02@gmail.com)
