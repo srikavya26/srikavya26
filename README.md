@@ -15,6 +15,8 @@ Hey there!👋 I am Kavya.
 ![image](https://github.com/srikavya26/srikavya26/assets/95865936/c63c208a-a620-4ce9-ad80-2151bbab03fe)
 ![image](https://github.com/srikavya26/srikavya26/assets/95865936/d5e37de5-3a5a-417a-a781-86688e74d534)
 ![image](https://github.com/srikavya26/srikavya26/assets/95865936/c4f78455-9b3f-44d1-9c32-3ea07792c1f3)
+![image](https://github.com/srikavya26/srikavya26/assets/95865936/633c839c-3bf4-42d4-bb43-ac72bfa01251)
+
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJicTJ4M25udDFiMDNvdWxiejZkcGdkZzNiZTI1NDJkcDdheG91dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bz9PIxJMQtkO943XeS/giphy.gif" width="300" height="200">
 
