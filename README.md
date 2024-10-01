@@ -4,7 +4,7 @@ Hey there!👋 I am Kavya.
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasala-s-9368b5273/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vskavya02@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vskavya02@gmail.com)
 
 ## Skills
 - **Web Development:** Familiar with modern web development frameworks and libraries.
