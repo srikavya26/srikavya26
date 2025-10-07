@@ -1,6 +1,6 @@
 # About Me
 
-Hello! there. I am Kavya, a data science student passionate about coding, curiosity, and continuous learning. Currently working on my master’s project with experience in image processing, data visualization, NLP, machine learning, and deep learning.
+Hello! there. I am Kavya, a data science student passionate about coding, curiosity, and continuous learning. Currently working on my master’s project with experience in image processing, data visualization, Natural Language Processing, machine learning, and deep learning.
 
 # Technical Skills
 ## Languages:
