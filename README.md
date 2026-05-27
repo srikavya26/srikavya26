@@ -1,6 +1,6 @@
-# Hi there! 👋 Welcome to my GitHub!
+# Hi there! 👋
 
-I'm **Srikavya**, an aspiring **Data Scientist** and **AI enthusiast** passionate about building intelligent systems powered by Large Language Models. I love exploring the intersection of machine learning, data science, and practical AI applications.
+I'm **kavya**, an aspiring **Data Scientist** and **AI enthusiast** passionate about building intelligent systems powered by Large Language Models. I love exploring the intersection of machine learning, data science, and practical AI applications.
 
 ---
 
@@ -9,7 +9,7 @@ I'm **Srikavya**, an aspiring **Data Scientist** and **AI enthusiast** passionat
 - 🧠 Studying **Data Science** with a deep curiosity for coding and AI/ML
 - 🤖 Fascinated by **Large Language Models (LLMs)** and their real-world applications
 - 🔍 Actively learning and experimenting with cutting-edge AI technologies
-- 🚀 Passionate about **hackathons** and collaborative projects that solve real problems
+- 🚀 Passionate about hackathons and collaborative projects that solve real problems
 - 📚 Committed to continuous learning and sharing knowledge with the community
 - 💡 Driven by the challenge of turning data into actionable insights
 
@@ -18,9 +18,9 @@ I'm **Srikavya**, an aspiring **Data Scientist** and **AI enthusiast** passionat
 ## 🛠️ Technical Skills
 
 ### Core Languages & Libraries
-- **Python** 🐍 (Primary language for data science & ML)
+- **Python** 🐍
 - NumPy, Pandas, Scikit-learn
-- TensorFlow, PyTorch (as needed)
+- TensorFlow, PyTorch
 
 ### AI & Machine Learning
 - **Large Language Models (LLMs)** 🦙
@@ -31,7 +31,7 @@ I'm **Srikavya**, an aspiring **Data Scientist** and **AI enthusiast** passionat
 - Model fine-tuning and prompt engineering
 
 ### Data Science & Algorithms
-- **Data Structures** (Lists, Trees, Graphs, Hash Tables, etc.)
+- **Data Structures**
 - Exploratory Data Analysis (EDA)
 - Data preprocessing & feature engineering
 - Statistical analysis and visualization
@@ -41,16 +41,8 @@ I'm **Srikavya**, an aspiring **Data Scientist** and **AI enthusiast** passionat
 - Git & GitHub
 - Jupyter Notebooks
 - API integration
-- Cloud platforms (as exploring)
+- Cloud platforms 
 - Version control & collaboration
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srikavya26&show_icons=true&theme=radical&hide=contribs,prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srikavya26&layout=compact&theme=radical)
 
 ---
 
@@ -98,17 +90,7 @@ I'm always excited to:
 
 Feel free to reach out:
 - **GitHub**: [@srikavya26](https://github.com/srikavya26)
-- 📧 **Email**: [Add your email]
-- 💼 **LinkedIn**: [Add your LinkedIn profile]
-- 🐦 **Twitter/X**: [Add your handle if you have one]
-
----
-
-## 💻 A Little More About Me
-
-> *"I believe in the power of data and AI to transform the world. Every line of code is an opportunity to learn, every project is a stepping stone, and every collaboration brings new perspectives."*
-
-I'm not just learning data science—I'm building a foundation to contribute meaningfully to the AI revolution. Whether it's through personal projects, open-source contributions, or hackathons, I'm committed to growing as a developer and data scientist.
+- 💼 **LinkedIn**: [@srikavya vasala](https://www.linkedin.com/in/vasala-srikavya-9368b5273/?skipRedirect=true)
 
 ---
 
