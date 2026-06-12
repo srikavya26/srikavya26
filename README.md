@@ -93,13 +93,3 @@ Feel free to reach out:
 - 💼 **LinkedIn**: [@srikavya vasala](https://www.linkedin.com/in/vasala-srikavya-9368b5273/?skipRedirect=true)
 
 ---
-
-## 🎉 Thanks for Visiting!
-
-Feel free to:
-- ⭐ Star projects you find interesting
-- 🔀 Fork and contribute
-- 💭 Share feedback and ideas
-- 🤝 Reach out to collaborate
-
-**Let's build something amazing together!** 🚀✨
